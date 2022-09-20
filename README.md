@@ -7,7 +7,7 @@ Name your repository: "firstName_lastName_P0"
 A team has recently completed a prototype of a new Test Case and Bug Reporting managagement system. This system is for internal use. Many features are incomplete and the application lacks any styling. The team expects the application to have bugs, both visual and logical. You have been tasked with testing the application, specifically writing the automation tests so that future sprints on the project can do rapid regression testing. You will not have access to the source code of the application. However, you are being provided a a version of the application up and running in a dev environment. You will have access to the underlying API for the application. **Use the dev header with your id** to avoid stepping on your fellow testers' data. The feature files are *not* perfect. You may edit them if needed or add more. However, you are responsible for fulfilling the intent of every scenario.
 
 ## Live BugCatcher (Dev Environment)
-[BugCatcher App](https://bugcatcher-primer.coe.revaturelabs.com/)
+[BugCatcher App](https://bugcatcher-primer.coe.revaturelabs.com/?dev=0)
 
 ## Deliverables
 - Application with as many features automated as possible
