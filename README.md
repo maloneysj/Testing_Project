@@ -1,5 +1,7 @@
 # BugCatcher-P0
-This repo contains the Project 0 Description and Requirements
+This repo contains the Project 0 Description and Requirements.  
+Please fork this repository to create your own repository for PO in our GitHub Organization.  
+Name your repository: "firstName_lastName_P0"
 
 # BugCatcher
 A team has recently completed a prototype of a new Test Case and Bug Reporting managagement system. This system is for internal use. Many features are incomplete and the application lacks any styling. The team expects the application to have bugs, both visual and logical. You have been tasked with testing the application, specifically writing the automation tests so that future sprints on the project can do rapid regression testing. You will not have access to the source code of the application. However, you are being provided a a version of the application up and running in a dev environment. You will have access to the underlying API for the application. **Use the dev header with your id** to avoid stepping on your fellow testers' data. The feature files are *not* perfect. You may edit them if needed or add more. However, you are responsible for fulfilling the intent of every scenario.
@@ -11,7 +13,7 @@ A team has recently completed a prototype of a new Test Case and Bug Reporting m
 - Application with as many features automated as possible
   - This code should be uploaded to Github
   - You will demo the automation tests
-- A Requirements Matrix. 
+- A Requirements Traceability Matrix. 
   - You may use the one provided or as a template to base your own off of. 
   - All user stories must be included but you can add more.
 - A Defect Report 
