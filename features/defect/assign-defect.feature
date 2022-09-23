@@ -1,4 +1,6 @@
 Feature: Assign Defect
+
+    test
  
     Scenario: Assign Defect 
         Given The manager is logged in as a manager 
